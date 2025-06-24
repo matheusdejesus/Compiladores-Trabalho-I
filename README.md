@@ -39,16 +39,13 @@ O parser implementa a seguinte hierarquia de precedência (do menor para o maior
 1. **Navegue até o diretório do projeto:**
 
 2. **Execute o arquivo Python:**
-   python parser.py
+parser.py
   
-
 ### Exemplos de Uso
 
 O código já inclui alguns exemplos que são executados automaticamente:
 
-```python
 exemplos = ["a|b", "!(a=b)&f", "(a+b)>fdfc"]
-```
 
 **Saída esperada:**
 ```
