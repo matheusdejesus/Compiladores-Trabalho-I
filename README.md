@@ -36,7 +36,7 @@ O parser implementa a seguinte hierarquia de precedência (do menor para o maior
 
 ### Execução
 
-1. **Navegue até o diretório do projeto:**
+1. **Navegue até o diretório do projeto**
 
 2. **Execute o arquivo Python:**
 parser.py
