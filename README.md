@@ -1,6 +1,6 @@
-# Parser de Expressões Booleanas e Aritméticas
+## Programa Verificador da Sintaxe da Linguagem
 
-Este projeto implementa um parser recursivo descendente para análise sintática de expressões que combinam operadores booleanos, aritméticos e relacionais.
+O parser foi implementado na linguagem Python, seguindo o modelo de um analisador descendente preditivo baseado na gramática LL(1) construída
 
 ## Funcionalidades
 
